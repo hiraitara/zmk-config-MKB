@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - {t: P, h: PRINTSCREEN}
-  - DELETE
+  - BACKSPACE
   - TAB
   - A
   - S
@@ -23,8 +23,8 @@ layers:
   - J
   - K
   - L
-  - SEMI
-  - SQT
+  - MINUS
+  - {t: GRAVE, h: KP SLASH}
   - LSHFT
   - Z
   - X
@@ -36,14 +36,14 @@ layers:
   - COMMA
   - DOT
   - UP
-  - FSLH
+  - {t: QUESTION, h: '!'}
   - LCTRL
   - LGUI
   - LALT
-  - {t: LANG2, h: Num}
+  - {t: SPACE, h: Num}
   - SPACE
   - ENTER
-  - {t: LANG1, h: Num}
+  - {t: ENTER, h: Num}
   - LEFT
   - DOWN
   - RIGHT
@@ -56,7 +56,7 @@ layers:
   - PG UP
   - ENTER
   - PG DN
-  - BACKSPACE
+  - END
   - A
   - B
   Fnc:
