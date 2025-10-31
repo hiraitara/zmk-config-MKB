@@ -11,9 +11,9 @@ layers:
   - U
   - I
   - O
-  - P
-  - BKSP
-  - {t: TAB, h: Alt+TAB}
+  - {t: P, h: PRINTSCREEN}
+  - DELETE
+  - TAB
   - A
   - S
   - D
