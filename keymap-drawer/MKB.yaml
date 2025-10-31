@@ -40,10 +40,10 @@ layers:
   - LCTRL
   - LGUI
   - LALT
-  - {t: LANG1, h: Num}
+  - {t: LANG2, h: Num}
   - SPACE
   - ENTER
-  - {t: LANG2, h: Num}
+  - {t: LANG1, h: Num}
   - LEFT
   - DOWN
   - RIGHT
