@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - {t: P, h: PRINTSCREEN}
-  - BACKSPACE
+  - DELETE
   - TAB
   - A
   - S
@@ -43,7 +43,7 @@ layers:
   - {t: SPACE, h: Num}
   - SPACE
   - ENTER
-  - {t: ENTER, h: Num}
+  - {t: BACKSPACE, h: Num}
   - LEFT
   - DOWN
   - RIGHT
@@ -53,9 +53,9 @@ layers:
   - DOWN
   - F7
   - HOME
-  - PG UP
+  - LANG1
   - ENTER
-  - PG DN
+  - LANG2
   - END
   - A
   - B
