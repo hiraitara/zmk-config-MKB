@@ -47,11 +47,11 @@ layers:
   - LEFT
   - DOWN
   - RIGHT
-  - LEFT
-  - UP
+  - F10
+  - F2
   - SPACE
   - DOWN
-  - RIGHT
+  - F7
   - HOME
   - PG UP
   - ENTER
@@ -152,9 +152,9 @@ layers:
   - {t: ▽, type: trans}
   - FSLH
   - SEMI
-  - SQT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - ENTER
   - ENTER
@@ -162,9 +162,9 @@ layers:
   - ENTER
   - ENTER
   - ENTER
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT
+  - '0'
+  - RIGHT
   - LEFT
   - UP
   - SPACE
@@ -197,10 +197,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '&mkp MB1'
   - '&mkp MB3'
   - '&mkp MB2'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -256,10 +256,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '&mkp MB1'
   - '&mkp MB3'
   - '&mkp MB2'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
